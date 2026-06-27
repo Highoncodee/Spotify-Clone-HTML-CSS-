@@ -60,8 +60,8 @@ Dark/Light mode toggle
 Search functionality
 Playlist management
 
-👨‍💻 Author
-Vedant Tumme
+👨‍💻 Author : 
+Vedant Tumme, 
 GitHub: https://github.com/Highoncodee
 
 ⭐ Support

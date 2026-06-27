@@ -1,10 +1,9 @@
 🎵 Spotify Clone
 
-A responsive Spotify Web Player Clone built using HTML5 and CSS3. This project recreates the look and feel of Spotify's web interface, focusing on modern layouts, responsive design, and clean UI implementation.
+A responsive Spotify Web Player Clone built using HTML5 and CSS3. This project recreates the look and feel of Spotify's web interface, featuring a modern UI, responsive layouts, sidebar navigation, music player controls, and playlist cards. It was built to strengthen my frontend development skills and understanding of responsive web design.
 
 🚀 Live Demo
-
-(Coming Soon)
+🔗 https://highoncodee.github.io/Spotify-Clone-HTML-CSS-/
 
 📸 Preview
 
@@ -17,7 +16,7 @@ A responsive Spotify Web Player Clone built using HTML5 and CSS3. This project r
 📌 Sticky navigation bar
 🎵 Music player section
 💿 Playlist and album cards
-📱 Responsive design
+📱 Responsive layout
 🎨 Hover effects and modern styling
 🎚️ Custom progress and volume sliders
 ⭐ Font Awesome icons
@@ -60,9 +59,15 @@ Dark/Light mode toggle
 Search functionality
 Playlist management
 
-👨‍💻 Author : 
-Vedant Tumme, 
+📌 Note
+This project is created for educational purposes only and is not affiliated with or endorsed by Spotify.
+
+👨‍💻 Author
+
+Vedant Tumme
+
 GitHub: https://github.com/Highoncodee
 
 ⭐ Support
+
 If you found this project helpful, consider giving it a ⭐ on GitHub!
